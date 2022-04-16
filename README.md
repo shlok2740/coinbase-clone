@@ -44,14 +44,13 @@ Install coinbase-clone with npm
 https://coinbase-clone-peach.vercel.app/
 
 
-## Support
-
-For support, email shlokkumar2303@gmail.com .
-
-
 ## Deployment
 
 The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
 
 Check out our Next.js deployment documentation for more details.
 
+
+## Support
+
+For support, email shlokkumar2303@gmail.com .
